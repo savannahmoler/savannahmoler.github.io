@@ -1,0 +1,10 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Savannah Moler</title>
+  </head>
+  <body>
+    <p>Welcome to my first project.</p>
+    <p>My name is Savannah. I am a first year student at UCI. I am Women and Information and Computer Science and in Kappa Alpha Theta.</p>
+  </body>
+</html>
